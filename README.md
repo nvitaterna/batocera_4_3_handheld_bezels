@@ -1,3 +1,11 @@
+# rg35xx_bezels
+
+These bezels have been taken from https://github.com/drkhrse/drkhrse_miyoo_bezels. I've began to set up the configurations for batocera for various bezels in the https://github.com/nvitaterna/rg35xx_bezels/tree/main/rg35xx_bezels/ folder.
+
+To install these to your device, copy the entire rg35xx_bezels folder to the "decorations" folder on your sd card. After doing so, go to "Game Settings" and set the decoration set to "rg35xx_bezels" (likely at the bottom of the list).
+
+Original README below:
+
 # drkhrse Miyoo Bezels
 My 4:3 bezels for RetroArch, originally created for [Onion OS](https://github.com/OnionUI/Onion) on the Miyoo Mini+ (but they should also work fine for any 640 x 480 device). This set covers the Game Boy (DMG, Pocket, and Color), Game Boy Advance, Game Gear, Neo Geo Pocket, and more. My intention was to create overlays that are darker than most of the defaults and also have more full screen options with the default aspect ratio. Also added bezels based upon offset video filters that were added by [Jeltr0n](https://github.com/OnionUI/Onion/discussions/708).
 
