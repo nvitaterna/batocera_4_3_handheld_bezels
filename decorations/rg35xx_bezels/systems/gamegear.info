@@ -2,9 +2,9 @@
  "width":640,
  "height":480,
  "top":24,
- "left":80,
+ "left":32,
  "bottom":24,
- "right":80,
+ "right":32,
  "opacity":1,
  "messagex":0.220000,
  "messagey":0.120000
