@@ -4,7 +4,7 @@ These bezels have been taken from https://github.com/drkhrse/drkhrse_miyoo_bezel
 
 ## Installation
 
-Copy the decorations folder to the userdata partition of your batocera sd card. Then, go to "Game Settings" and set the decoration set to "rg35xx_bezels" (likely at the bottom of the list).
+Copy the decorations folder to the userdata partition of your batocera sd card. Then, go to "Game Settings" and set the decoration set to "batocera_4_3_handheld_bezels".
 
 You may unset any integer scaling options you may have set for these consoles as the .info files will set the integer scaling for you (for the systems with int scaling bezels).
 
