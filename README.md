@@ -1,4 +1,4 @@
-# rg35xx_bezels
+# batocera_4_3_handheld_bezels
 
 These bezels have been taken from https://github.com/drkhrse/drkhrse_miyoo_bezels and https://github.com/antiKk/muOS-Overlays. I have just created the necessary .info files so they are compatible with Batocera.
 
